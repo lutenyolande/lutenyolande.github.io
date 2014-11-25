@@ -1,0 +1,60 @@
+body {
+  font-family: Georgia, Serif;
+}
+
+.container {
+  position: absolute;
+  width: 842px;
+  min-height: 600px;
+  left: 50%;
+  top: 50%;
+  margin: -300px 0 0 -421px;
+}
+
+.contact {
+  background-color: #88be49;
+  text-align: middle;
+  height: 500px;
+  position: relative;
+}
+
+.contact section{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 250px;
+  margin: -143px 0 0 -100px;
+}
+
+.card {
+  border: 1px solid black;
+}
+
+.contact {
+  text-align: right
+}
+
+.contact h1 {
+  font-size: 30px;
+  margin-top: 0;
+}
+
+.contact .vcard {
+  margin-top: 40px;
+  color: #007941;
+}
+
+.contact h2.n, .contact p {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+.meta {
+  font-size: 26px;
+  font-weight: 400;
+}
+
+div[class^="col-"] {
+  padding: 0;
+  margin: 0;
+}
