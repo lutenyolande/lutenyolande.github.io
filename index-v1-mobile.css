@@ -50,6 +50,7 @@ img {
 .meta {
   font-size: 14px;
   font-weight: 400;
+  text-align: center;
 }
 
 div[class^="col-"] {
